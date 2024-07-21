@@ -1,7 +1,7 @@
 
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Vita Troian
 ===================================================================================================================================
-
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=&pause=1000&color=C7F7AF&background=FFB9AC00&center=true&vCenter=true&multiline=true&width=435&lines=The+five+boxing+wizards+jump+quickly)](https://git.io/typing-svg)
 Junior Full-Stack Developer
 ---------------------------
 
