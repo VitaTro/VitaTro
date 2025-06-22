@@ -35,10 +35,8 @@ Junior Full-Stack Developer
   <a href="https://studio3t.com/" target="_blank" rel="noreferrer">
     <img src="https://cdn-icons-png.flaticon.com/512/5968/5968341.png" width="36" height="36" alt="Studio3T" />
   </a>
-  <a href="https://cloudinary.com/" target="_blank" rel="noreferrer">
-    <img src="https://res.cloudinary.com/cloudinary-marketing/image/upload/v1618966610/brand/Cloudinary_Logo_Cloud.svg" width="36" height="36" alt="Cloudinary" />
-  </a>
-</p>
+ 
+
 </p>
 
 
