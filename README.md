@@ -13,7 +13,7 @@ Full-Stack Developer
 
 * 🌍  I'm based in Poland
 * ✉️  You can contact me at [vitylja.trojan@gmail.com](mailto:vitylja.trojan@gmail.com)
-* 🤝  I'm open to collaborating on HTML+CSS, JS, React
+* 🤝  I'm open to collaborating on JS, React, Node.js 
 * ⚡  I like to be lazy, but it doesn't work out
 
 ### Skills
